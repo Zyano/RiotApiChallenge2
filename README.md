@@ -14,7 +14,7 @@ Check recent games with user specified champions, to create item sets based on p
 
 Web Design:
 Bootstrap
-
+Art assets: http://ddragon.leagueoflegends.com/tool/euw/en_US
 
 Notes (from comments):
 Your project should be judge-able without any content that needs to be downloaded and installed/run. Any web-based project should be fine. We're not trying to avoid browser plugins like Adobe Flash, but we are trying to avoid Java applications that need to be downloaded and installed/run on the user's machine.
